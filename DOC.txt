@@ -1,0 +1,3 @@
+zgui Architecture
+
+Everything is based on GUIObject class
